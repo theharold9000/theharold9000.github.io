@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Test Blog</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Test Blog</description>
+    <title>Posts on Harold&#39;s Blog</title>
+    <link>theharold9000.github.io/posts/</link>
+    <description>Recent content in Posts on Harold&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Jun 2020 21:10:06 +1000</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="theharold9000.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Third One</title>
-      <link>http://example.org/posts/third-one/</link>
+      <link>theharold9000.github.io/posts/third-one/</link>
       <pubDate>Fri, 19 Jun 2020 21:10:06 +1000</pubDate>
       
-      <guid>http://example.org/posts/third-one/</guid>
+      <guid>theharold9000.github.io/posts/third-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Second One</title>
-      <link>http://example.org/posts/second-one/</link>
+      <link>theharold9000.github.io/posts/second-one/</link>
       <pubDate>Fri, 19 Jun 2020 20:53:42 +1000</pubDate>
       
-      <guid>http://example.org/posts/second-one/</guid>
+      <guid>theharold9000.github.io/posts/second-one/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First One</title>
-      <link>http://example.org/posts/first-one/</link>
+      <link>theharold9000.github.io/posts/first-one/</link>
       <pubDate>Fri, 19 Jun 2020 20:53:29 +1000</pubDate>
       
-      <guid>http://example.org/posts/first-one/</guid>
+      <guid>theharold9000.github.io/posts/first-one/</guid>
       <description></description>
     </item>
     
